@@ -25,4 +25,4 @@ You can also thank them for the W3C validator, which is a service that checks ou
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-css-issue-bot-9000' title='Issue Bot 9000'>Issue Bot 9000</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Issue Bot 9000</p>
